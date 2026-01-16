@@ -1,5 +1,8 @@
 # 💫 About Me  
 
+## 🧾 Profile Visits  
+![](https://komarev.com/ghpvc/?username=Shanushajahan707&style=for-the-badge&color=blue)
+
 I am a passionate **MEAN stack developer** with a robust background in building scalable and efficient web applications that drive user and business success. With a solid foundation in Computer Engineering, I have honed my skills in crafting high-performing solutions using cutting-edge technologies.  
 
 I thrive on challenges and love turning innovative ideas into reality, whether it’s creating seamless user experiences or solving complex technical problems.  
@@ -22,14 +25,15 @@ I thrive on challenges and love turning innovative ideas into reality, whether i
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Shanushajahan707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=Shanushajahan707&theme=dark&hide_border=false)  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shanushajahan707&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanushajahan707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanushajahan707&theme=dark&hide_border=false&layout=compact)  
 
 ---
-
-## 🧾 Profile Visits  
-![](https://komarev.com/ghpvc/?username=Shanushajahan707&style=for-the-badge&color=blue)
 
 
 ---
